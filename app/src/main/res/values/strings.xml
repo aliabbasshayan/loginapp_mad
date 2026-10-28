@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">SmartPortal</string>
+    <string name="app_tagline">SZABIST Islamabad Academic Portal</string>
+    <string name="university_name">SZABIST Islamabad</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to access your student portal</string>
+
+    <!-- Login Screen -->
+    <string name="email_or_username">Email / Student ID</string>
+    <string name="password">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="register_here">Register Here</string>
+    <string name="login_success">Login Successful!</string>
+    <string name="invalid_credentials">Invalid Email or Password!</string>
+
+    <!-- Register Screen -->
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Register your student account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register_button">Register Now</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="login_link">Log In</string>
+    <string name="registration_success">Registration Successful! Please Log In.</string>
+    <string name="passwords_do_not_match">Passwords do not match!</string>
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Please enter a valid email address</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="reset_password_title">Password Recovery</string>
+    <string name="forgot_instructions">Enter your registered student email address. We will send a simulated recovery code/link.</string>
+    <string name="send_recovery_link">Send Recovery Request</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="recovery_sent">Recovery link sent to your email!</string>
+    <string name="user_not_found">No registered account found with this email.</string>
+
+    <!-- Reset Password Screen -->
+    <string name="new_password_title">Set New Password</string>
+    <string name="new_password_subtitle">Choose a secure password for your account</string>
+    <string name="new_password">New Password</string>
+    <string name="reset_password_button">Update Password</string>
+    <string name="password_updated">Password updated successfully! Please log in.</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="greeting_user">Hello, %1$s!</string>
+    <string name="student_id_format">ID: %1$s</string>
+    <string name="program_info">BS Artificial Intelligence (Semester 5)</string>
+    <string name="module_profile">Profile &amp; ID</string>
+    <string name="module_courses">My Courses</string>
+    <string name="module_attendance">Attendance &amp; Marks</string>
+    <string name="module_settings">Settings &amp; Info</string>
+    <string name="logout_button">Logout</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Student Profile</string>
+    <string name="student_details_header">Academic Details</string>
+    <string name="label_name">Full Name:</string>
+    <string name="label_student_id">Student ID:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_institution">Institution:</string>
+    <string name="label_program">Program:</string>
+    <string name="label_semester">Semester:</string>
+
+    <!-- Courses Screen -->
+    <string name="courses_title">Registered Courses</string>
+    <string name="courses_subtitle">BS AI - Semester 5 Subjects</string>
+    <string name="course1_code">AI501 - Deep Learning &amp; Neural Networks</string>
+    <string name="course1_desc">Instructor: Dr. Ahmed | Cr. Hrs: 3</string>
+    <string name="course2_code">AI502 - Computer Vision</string>
+    <string name="course2_desc">Instructor: Prof. Sarah | Cr. Hrs: 3</string>
+    <string name="course3_code">AI503 - Natural Language Processing</string>
+    <string name="course3_desc">Instructor: Dr. Usman | Cr. Hrs: 3</string>
+    <string name="course4_code">AI504 - Mobile App Development (Android)</string>
+    <string name="course4_desc">Instructor: Engr. Farhan | Cr. Hrs: 3</string>
+
+    <!-- Attendance Screen -->
+    <string name="attendance_title">Attendance &amp; Progress</string>
+    <string name="overall_attendance">Overall Attendance: 92%</string>
+    <string name="attendance_good">Status: Excellent (Eligible for Exams)</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings &amp; Info</string>
+    <string name="app_info_header">Application Info</string>
+    <string name="assignment_info">Assignment 2 - Android Application Development</string>
+    <string name="developer_name">Developed by: Shayan Ali Abbas (24108231)</string>
+    <string name="department_name">Department of Computer Science - SZABIST</string>
+</resources>

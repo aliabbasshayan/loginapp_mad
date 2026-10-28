@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme for Night Mode. -->
+    <style name="Theme.SmartPortal" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">#000000</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

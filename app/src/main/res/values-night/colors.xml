@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Night Mode Color Palette -->
+    <color name="primary">#7986CB</color>            <!-- Soft Lighter Indigo for Dark Mode -->
+    <color name="primary_variant">#3F51B5</color>    <!-- Indigo -->
+    <color name="secondary">#4DB6AC</color>          <!-- Soft Teal Accent -->
+    <color name="background">#121212</color>         <!-- Dark Background -->
+    <color name="surface">#1E1E1E</color>            <!-- Dark Card Surface -->
+    <color name="card_stroke">#333333</color>         <!-- Subtle Dark Border -->
+    <color name="text_primary">#EEEEEE</color>       <!-- Light Text -->
+    <color name="text_secondary">#B0BEC5</color>     <!-- Light Muted Text -->
+    <color name="input_bg">#2C2C2C</color>           <!-- Dark Input Background -->
+    <color name="accent_gold">#FFCA28</color>         <!-- Status Accent Dark -->
+    <color name="error_red">#EF5350</color>           <!-- Light Red for Dark Theme -->
+    <color name="success_green">#66BB6A</color>       <!-- Light Green for Dark Theme -->
+
+    <!-- Card Backgrounds for Dashboard in Dark Mode -->
+    <color name="card_bg_1">#262B40</color>
+    <color name="card_bg_2">#1E3A37</color>
+    <color name="card_bg_3">#3D3223</color>
+    <color name="card_bg_4">#34243B</color>
+</resources>
